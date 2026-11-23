@@ -1,0 +1,4 @@
+fastapi[standard]>=0.165.0,<0.166.0
+prometheus-client>=0.20.0,<1.0.0
+pytest>=8.0.0
+hypothesis>=6.100.0,<7.0.0
