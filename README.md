@@ -38,9 +38,7 @@ box-packing-service/
 │   └── test_api.py
 ├── requirements.txt
 ├── README.md
-├── Dockerfile           # Optional, if included in the submission
-├── .dockerignore        # Optional, if included in the submission
-└── .gitignore
+├── Dockerfile           # Optional
 ```
 
 ## Requirements
